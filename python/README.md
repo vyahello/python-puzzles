@@ -65,7 +65,7 @@ different behavior of code execution flow. Finally, it shows how to craft a user
 pure abstractions and practical examples of their usage along with polymorphism, inheritance, and association. Finally,
 the puzzle explains how encapsulation works in Python and what kind of options are available for practical usage.
 
-**Dependency:** `python-04`, `[e-Learning: Object-oriented Design](https://softserve.csod.com/GlobalSearch/search.aspx?s=1&q=Object-oriented%20Design)`
+**Dependency:** `python-04`
 
 **Materials:** [07/README.md](07/README.md)
 
